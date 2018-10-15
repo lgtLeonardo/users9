@@ -22,7 +22,7 @@
 
 				if ($rs!=null) {
 					# code...
-					return true;
+					return $rs;
 				}else{
 					return false;
 				}
